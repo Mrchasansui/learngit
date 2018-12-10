@@ -5,3 +5,4 @@ Git zhouchang.
 Creating a new branch is quick and simple.
 YYYYY
 branch dev
+creating a new branch is quick and simple
