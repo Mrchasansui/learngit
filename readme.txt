@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git zhouchang.
 Creating a new branch is quick and simple.
 YYYYY
+branch dev
